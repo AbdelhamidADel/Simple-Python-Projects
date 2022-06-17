@@ -1,9 +1,8 @@
-![pngegg](https://user-images.githubusercontent.com/104658866/171489396-602dc464-28dc-47b2-b168-00efe686a6d6.png)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 # simple-projects 
 A collection of simple python projects to enhance your Python skills.
-
 
 # Hint
 It's in progress :memo:
@@ -11,4 +10,45 @@ It's in progress :memo:
 ## Note
 If you need any help feel free to ask :relaxed:	
 
- ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+# Projects List
+</p>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Age%20Calculator.ipynb"><b>Age Calculator</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/bank%20account.ipynb"><b>Bank Account</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Calculate%20Two%20Resistance.ipynb"><b>Calculate Two Resistance</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/FizzBuzz%20Game.ipynb"><b>FizzBuzz Game</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Image%20Downloader%20by%20Url"><b>Image Downloader by Url</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Love%20Calculator.ipynb"><b>Love Calculator</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/login%20user.ipynb"><b>Login User</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Multiplication%20table.ipynb"><b>Multiplication Table</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Password%20Generator.ipynb"><b>Password Generator</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Qr%20code%20creator"><b>QrCode Creator</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Rock%20Paper%20Scissor%20game.ipynb"><b>Rock Paper Scissor game</b></a></td>
+   </tr>     
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/rename%20multi%20files"><b>Rename Multi Files</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Selector%20Game.ipynb"><b>Selector Game</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20calculator.ipynb"><b>Simple Calculator</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20translator.ipynb"><b>Simple Translator</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Wikipedia%20Search%20Summary.ipynb"><b>Wikipedia Search Summary</b></a></td>
+   </tr>    
