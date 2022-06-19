@@ -54,5 +54,7 @@ If you need any help feel free to ask :relaxed:
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20translator.ipynb"><b>Simple Translator</b></a></td>
    </tr>      
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Track%20Phone%20Number"><b>Track Phone Number</b></a></td>
+   </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Wikipedia%20Search%20Summary.ipynb"><b>Wikipedia Search Summary</b></a></td>
    </tr>    
