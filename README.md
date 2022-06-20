@@ -26,6 +26,8 @@ If you need any help feel free to ask :relaxed:
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Calculate%20Two%20Resistance.ipynb"><b>Calculate Two Resistance</b></a></td>
    </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Convert%20String%20to%20Binary"><b>Convert String to Binary</b></a></td>
+   </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/FizzBuzz%20Game.ipynb"><b>FizzBuzz Game</b></a></td>
    </tr>
       <td><a href=https://github.com/AbdelhamidADel/simple-projects/tree/main/Insta-Scraping><b>Insta-Scraping</b></a></td>
@@ -50,7 +52,9 @@ If you need any help feel free to ask :relaxed:
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Selector%20Game.ipynb"><b>Selector Game</b></a></td>
    </tr>    
-      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20calculator.ipynb"><b>Simple Calculator</b></a></td>
+     <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Secret%20Msg"><b>Secret Msg</b></a></td>
+   </tr>    
+     <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20calculator.ipynb"><b>Simple Calculator</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20translator.ipynb"><b>Simple Translator</b></a></td>
    </tr>      
