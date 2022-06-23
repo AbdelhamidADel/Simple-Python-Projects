@@ -26,8 +26,12 @@ If you need any help feel free to ask :relaxed:
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Calculate%20Two%20Resistance.ipynb"><b>Calculate Two Resistance</b></a></td>
    </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Celsius%20To%20Fahrenheit.ipynb"><b>Celsius To Fahrenheit</b></a></td>
+   </tr>      
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Convert%20String%20to%20Binary"><b>Convert String to Binary</b></a></td>
    </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Egypt-Flag"><b>Egypt-Flag</b></a></td>
+   </tr>      
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/FizzBuzz%20Game.ipynb"><b>FizzBuzz Game</b></a></td>
    </tr>
       <td><a href=https://github.com/AbdelhamidADel/simple-projects/tree/main/Insta-Scraping><b>Insta-Scraping</b></a></td>
@@ -54,11 +58,17 @@ If you need any help feel free to ask :relaxed:
    </tr>    
      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Secret%20Msg"><b>Secret Msg</b></a></td>
    </tr>    
-     <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20calculator.ipynb"><b>Simple Calculator</b></a></td>
+     <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Secret%20Msg"><b>Secret Msg</b></a></td>
+   </tr>    
+     <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Spam-Bot"><b>Spam-Bot</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20translator.ipynb"><b>Simple Translator</b></a></td>
    </tr>      
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Track%20Phone%20Number"><b>Track Phone Number</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Text%20on%20Image"><b>Text on Image</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Verify%20password%20-strength.ipynb"><b>Verify password -strength</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Wikipedia%20Search%20Summary.ipynb"><b>Wikipedia Search Summary</b></a></td>
    </tr>    
