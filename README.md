@@ -20,6 +20,8 @@ If you need any help feel free to ask :relaxed:
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Automatic%20Message%20WhatsApp.py"><b>Automatic Message WhatsAppr</b></a></td>
+   </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Age%20Calculator.ipynb"><b>Age Calculator</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/bank%20account.ipynb"><b>Bank Account</b></a></td>
@@ -30,6 +32,10 @@ If you need any help feel free to ask :relaxed:
    </tr>      
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Convert%20String%20to%20Binary"><b>Convert String to Binary</b></a></td>
    </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Digital-Clock.py"><b>Digital-Clock</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Detect%20Vowels%20in%20Word.py"><b>Detect Vowels in Word</b></a></td>
+   </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Egypt-Flag"><b>Egypt-Flag</b></a></td>
    </tr>      
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/FizzBuzz%20Game.ipynb"><b>FizzBuzz Game</b></a></td>
@@ -37,6 +43,8 @@ If you need any help feel free to ask :relaxed:
       <td><a href=https://github.com/AbdelhamidADel/simple-projects/tree/main/Insta-Scraping><b>Insta-Scraping</b></a></td>
    </tr>  
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Image%20Downloader%20by%20Url"><b>Image Downloader by Url</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/tree/main/Image%20To%20Sketch"><b>Image To Sketch</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Love%20Calculator.ipynb"><b>Love Calculator</b></a></td>
    </tr> 
