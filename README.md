@@ -20,7 +20,7 @@ If you need any help feel free to ask :relaxed:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Automatic%20Message%20WhatsApp.py"><b>Automatic Message WhatsAppr</b></a></td>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Automatic%20Message%20WhatsApp.py"><b>Automatic Message WhatsApp</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Age%20Calculator.ipynb"><b>Age Calculator</b></a></td>
    </tr>
@@ -42,8 +42,6 @@ If you need any help feel free to ask :relaxed:
    </tr>
          <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Facebook%20Automation%20Login.py"><b>Facebook Automation Login</b></a></td>
    </tr>
-      <td><a href=https://github.com/AbdelhamidADel/simple-projects/tree/main/Insta-Scraping><b>Insta-Scraping</b></a></td>
-   </tr>  
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Image%20Downloader%20by%20Url"><b>Image Downloader by Url</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/tree/main/Image%20To%20Sketch"><b>Image To Sketch</b></a></td>
