@@ -80,3 +80,5 @@ If you need any help feel free to ask :relaxed:
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Wikipedia%20Search%20Summary.ipynb"><b>Wikipedia Search Summary</b></a></td>
    </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Word-Cloud.ipynb"><b>Words Cloud</b></a></td>
+   </tr>    
