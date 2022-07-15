@@ -32,6 +32,8 @@ If you need any help feel free to ask :relaxed:
    </tr>      
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Convert%20String%20to%20Binary"><b>Convert String to Binary</b></a></td>
    </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Convert%20image%20to%20pdf.py"><b>Convert image to pdf</b></a></td>
+   </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Digital-Clock.py"><b>Digital-Clock</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Detect%20Vowels%20in%20Word.py"><b>Detect Vowels in Word</b></a></td>
@@ -53,6 +55,8 @@ If you need any help feel free to ask :relaxed:
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Library-System"><b>Library-System</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/login%20user.ipynb"><b>Login User</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Language%20Detection%20.py"><b>Language Detection</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Multiplication%20table.ipynb"><b>Multiplication Table</b></a></td>
    </tr>    
