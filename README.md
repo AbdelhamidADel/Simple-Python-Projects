@@ -36,6 +36,8 @@ If you need any help feel free to ask :relaxed:
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Digital-Clock.py"><b>Digital-Clock</b></a></td>
    </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Desktop%20Notifier.py"><b>Desktop Notifier</b></a></td>
+   </tr>    
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Detect%20Vowels%20in%20Word.py"><b>Detect Vowels in Word</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Egypt-Flag"><b>Egypt-Flag</b></a></td>
@@ -59,7 +61,7 @@ If you need any help feel free to ask :relaxed:
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Language%20Detection%20.py"><b>Language Detection</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Multiplication%20table.ipynb"><b>Multiplication Table</b></a></td>
-   </tr>    
+   </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Password%20Generator.ipynb"><b>Password Generator</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Qr%20code%20creator"><b>QrCode Creator</b></a></td>
