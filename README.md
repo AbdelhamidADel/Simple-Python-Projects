@@ -34,7 +34,11 @@ If you need any help feel free to ask :relaxed:
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Convert%20image%20to%20pdf.py"><b>Convert image to pdf</b></a></td>
    </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Country%20info.ipynb"><b>Country Info</b></a></td>
+   </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Digital-Clock.py"><b>Digital-Clock</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Decode%20QR%20Code.ipynb"><b>Decode QR Code</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Desktop%20Notifier.py"><b>Desktop Notifier</b></a></td>
    </tr>    
@@ -45,6 +49,8 @@ If you need any help feel free to ask :relaxed:
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/FizzBuzz%20Game.ipynb"><b>FizzBuzz Game</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Facebook%20Automation%20Login.py"><b>Facebook Automation Login</b></a></td>
+   </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Google%20News.ipynb"><b>Google News</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Instagram%20Automation.py"><b>Instagram Automation Login</b></a></td>
    </tr>
@@ -58,15 +64,23 @@ If you need any help feel free to ask :relaxed:
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/login%20user.ipynb"><b>Login User</b></a></td>
    </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Live%20Covid-19%20Data.ipynb"><b>Live Covid-19</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Live%20Weather.ipynb"><b>Live Weather</b></a></td>
+   </tr>    
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Language%20Detection%20.py"><b>Language Detection</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Multiplication%20table.ipynb"><b>Multiplication Table</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/OTP%20Generator.ipynb"><b>OTP Generator</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Password%20Generator.ipynb"><b>Password Generator</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Qr%20code%20creator"><b>QrCode Creator</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/Rock%20Paper%20Scissor%20game.ipynb"><b>Rock Paper Scissor game</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Record%20Voice.ipynb"><b>Record Voice</b></a></td>
    </tr>     
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/rename%20multi%20files"><b>Rename Multi Files</b></a></td>
    </tr>    
@@ -79,6 +93,8 @@ If you need any help feel free to ask :relaxed:
      <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Spam-Bot"><b>Spam-Bot</b></a></td>
    </tr>    
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/blob/main/simple%20translator.ipynb"><b>Simple Translator</b></a></td>
+   </tr>    
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/spell%20checker.ipynb"><b>Spell Checker</b></a></td>
    </tr>      
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Track%20Phone%20Number"><b>Track Phone Number</b></a></td>
    </tr>
