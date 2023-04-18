@@ -52,6 +52,8 @@ If you need any help feel free to ask :relaxed:
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Google%20News.ipynb"><b>Google News</b></a></td>
    </tr>
+      <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/tree/main/GUI%20-%20Archive%20Files"><b>GUI - Archive Files</b></a></td>
+   </tr>
       <td><a href="https://github.com/AbdelhamidADel/Simple-Python-Projects/blob/main/Instagram%20Automation.py"><b>Instagram Automation Login</b></a></td>
    </tr>
       <td><a href="https://github.com/AbdelhamidADel/simple-projects/tree/main/Image%20Downloader%20by%20Url"><b>Image Downloader by Url</b></a></td>
